@@ -43,6 +43,39 @@ Problem statement define chesinappudu, success criteria kuda easy ga identify av
 
 Example: “Increase relevant product discovery by 30%” → measurable goal.
 
+Problem Features
+
+1. Poor Product Discovery – Retailers miss more than 60% of relevant products.
+
+
+2. Repetitive Purchase Patterns – Lack of variety in orders; missed cross-sell & upsell.
+
+
+3. Stagnant Order Values – No growth in Average Order Value due to weak suggestions.
+
+
+4. Low Customer Retention – 35% churn (inactive within 6 months).
+
+
+
+
+---
+
+✅ Required Solution Features
+
+1. Intelligent Recommendation System – Personalized product suggestions based on purchase history & behavior.
+
+
+2. Business Impact Goals –
+
+Increase AOV by 15–20%
+
+Improve repeat purchases by 25%
+
+
+
+3. Target Audience – Kirana stores, restaurants, small businesses.
+
 ## Tech Stack
 - Frontend: React.js  
 - Backend: Python  
