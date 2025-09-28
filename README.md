@@ -6,8 +6,8 @@ Our solution introduces an *AI-powered recommendation system* that suggests rele
 
 ## Tech Stack
 - Frontend: React.js  
-- Backend: Python (Flask) / Node.js  
-- Database: PostgreSQL / MongoDB  
+- Backend: Python  
+- Database: MongoDB  
 - Machine Learning: Scikit-learn, Pandas  
 
 ## Team: High5Coders
@@ -15,4 +15,4 @@ Our solution introduces an *AI-powered recommendation system* that suggests rele
 2. AI Engineer – Ch. Vyshnavi  
 3. Developer – N. Dharani  
 4. Designer – A. S. Aditya Ram  
-5. Presenter – D. Sai Sreekar# Qwipo
+5. Presenter – D. Sai Sreekar
