@@ -14,5 +14,5 @@ Our solution introduces an *AI-powered recommendation system* that suggests rele
 1. Leader – D. Sai Sree Vaishnavi  
 2. AI Engineer – Ch. Vyshnavi  
 3. Developer – N. Dharani  
-4. Designer – A. S. Aditya Ram  
-5. Presenter – D. Sai Sreekar
+4. Presenter – A. S. Aditya Ram  
+5. Designer – D. Sai Sreekar
